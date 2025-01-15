@@ -1,10 +1,10 @@
-*{
+* {
   margin: 0;
-padding: 0;
+  padding: 0;
 }
 
 .footer {
-  margin-top: 185px;
+  margin-top: 90px;
   display: flex;
   justify-content: space-around;
   height: 120px;
@@ -48,14 +48,14 @@ padding: 0;
   }
 }
 
-.mb-3{
+.mb-3 {
   margin-top: 28px;
   width: 50%;
   position: relative;
   left: 350px;
 }
 
-.btn{
+.btn {
   position: relative;
   left: 350px;
 }
