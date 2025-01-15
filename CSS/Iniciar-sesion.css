@@ -4,6 +4,7 @@ padding: 0;
 }
 
 .footer {
+  margin-top: 185px;
   display: flex;
   justify-content: space-around;
   height: 120px;
@@ -45,4 +46,16 @@ padding: 0;
   100% {
     transform: rotateY(360deg);
   }
+}
+
+.mb-3{
+  margin-top: 28px;
+  width: 50%;
+  position: relative;
+  left: 350px;
+}
+
+.btn{
+  position: relative;
+  left: 350px;
 }
