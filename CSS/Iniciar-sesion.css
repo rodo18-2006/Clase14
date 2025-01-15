@@ -1,6 +1,6 @@
-*{
+* {
   margin: 0;
-padding: 0;
+  padding: 0;
 }
 
 .footer {
@@ -48,14 +48,14 @@ padding: 0;
   }
 }
 
-.mb-3{
+.mb-3 {
   margin-top: 28px;
   width: 50%;
   position: relative;
   left: 350px;
 }
 
-.btn{
+.btn {
   position: relative;
   left: 350px;
 }

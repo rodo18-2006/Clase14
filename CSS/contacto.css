@@ -53,8 +53,6 @@
   }
 }
 
-
-
 .text {
   text-align: center;
 }
@@ -69,7 +67,7 @@
   background-color: #b9b9b9;
 }
 
-.mapa{
+.mapa {
   position: relative;
   left: 460px;
 }
